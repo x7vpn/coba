@@ -213,10 +213,10 @@ proxy-groups:
     type: select
     proxies:
       - mannowi
-	  - gomarketplacefront
-	  - gomarketplacecontent
-	  - support
-	  - mannowispcial
+      - gomarketplacefront
+      - gomarketplacecontent
+      - support
+      - mannowispcial
       - DIRECT
 rules:
   - MATCH,FASTSSH-SSHKIT-HOWDY
